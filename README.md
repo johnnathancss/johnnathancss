@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+ ```js
+const johnnathan = {
+  pronouns: "he" | "hin",
+  code: [HTML, CSS, Phyton, Javascript],
+  tools: [Style-components],
+  architecture: ["design system pattern"],
+}
+ ```
 <!--
 **johnnathancss/johnnathancss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
