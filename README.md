@@ -3,7 +3,7 @@
  ```js
 const johnnathan = {
   pronouns: "he" | "hin",
-  code: [HTML, CSS, Phyton, Javascript],
+  code: [HTML, CSS, Javascript, Bootstrap],
   tools: [Style-components],
   architecture: ["design system pattern"],
 }
