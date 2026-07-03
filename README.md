@@ -12,7 +12,7 @@ const johnnathan = {
 
 **Goal Capital** — Maquetación de sitio web para firma de servicios financieros.
 **alojuntas** — Maquetación de sitio web para landingpage de cursos para muejres.
-**ferrernegy** — Maquetación de sitio web para solucines energéticas.
+**ferrernegy ** — Maquetación de sitio web para solucines energéticas.
 **unicon** — Maquetación de sitio web para servicio de mezcla de concreto.
  ```
 <!--
