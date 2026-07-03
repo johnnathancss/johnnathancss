@@ -2,10 +2,9 @@
 
  ```js
 const johnnathan = {
-  pronouns: "he" | "hin",
-  code: [HTML, CSS, Javascript, Bootstrap],
-  tools: [Style-components],
-  architecture: ["design system pattern"],
+  Pronouns: "he" | "hin",
+  Code: [HTML, CSS, Javascript, Bootstrap, SASS, GIT, GITHUB], 
+  Skill: [Grook, ChatGPT, QWEN]
 }
  ```
 <!--
