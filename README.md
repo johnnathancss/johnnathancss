@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hola, soy Johnnathan 👋
 
- ```js
+ ```
+Maquetador Web con experiencia convirtiendo diseños UX/UI en código HTML/CSS responsive y funcional
+- 🛠️ Stack: HTML5, CSS3, SASS, Bootstrap, JavaScript, Git
+- 🎯 Enfoque: maquetación fiel al diseño, responsive y optimizada
 const johnnathan = {
   Pronouns: "he" | "hin",
   Code: [HTML, CSS, Javascript, Bootstrap, SASS, GIT, GITHUB], 
